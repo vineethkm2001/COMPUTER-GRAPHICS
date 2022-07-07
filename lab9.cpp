@@ -120,7 +120,7 @@ glutInit(& argc, argv);
 glutInitDisplayMode(GLUT_DOUBLE | GLUT_RGB);
 glutInitWindowPosition(50, 50);
 glutInitWindowSize(winWidth, winHeight);
-glutCreateWindow("Bezier Curve");
+glutCreateWindow("Bezier Curve 4MT19CS177");
 glutDisplayFunc(disp);
 glutReshapeFunc(winReshapeFun);
 glutCreateMenu(menu);
